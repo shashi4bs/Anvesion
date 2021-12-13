@@ -23,7 +23,7 @@ idna==2.9
 incremental==17.5.0
 itsdangerous==1.1.0
 Jinja2==2.11.1
-lxml==4.5.1
+lxml==4.6.5
 MarkupSafe==1.1.1
 MongoAlchemy==0.19
 networkx==2.4
