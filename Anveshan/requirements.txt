@@ -28,7 +28,7 @@ MarkupSafe==1.1.1
 MongoAlchemy==0.19
 networkx==2.4
 nltk==3.4.5
-numpy==1.18.2
+numpy==1.22.0
 parsel==1.6.0
 Protego==0.1.16
 pyahocorasick==1.4.0
